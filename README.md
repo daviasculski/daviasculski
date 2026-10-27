@@ -8,10 +8,23 @@ Desenvolvedor de Software focado em Backend e construir aplicações eficientes,
 
 Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
 
-- **Linguagens:** Java, TypeScript, JavaScript
-- **Backend:** Spring Boot, Node.js
-- **Banco de Dados:** PostgreSQL, MySQL
-- **Ferramentas & Outros:** Git, GitHub, Docker
+- **Linguagens:**  
+  ![Java](https://shields.io)
+  ![TypeScript](https://shields.io)
+  ![JavaScript](https://shields.io)
+
+- **Backend:**  
+  ![Spring](https://shields.io)
+  ![NodeJS](https://shields.io)
+
+- **Banco de Dados:**  
+  ![PostgreSQL](https://shields.io)
+  ![MySQL](https://shields.io)
+
+- **Ferramentas & Outros:**  
+  ![Git](https://shields.io)
+  ![GitHub](https://shields.io)
+  ![Docker](https://shields.io)
 
 ---
 
@@ -30,4 +43,4 @@ Buscando novas conexões, trocas de experiências e oportunidades no mercado de 
 
 - **LinkedIn:** [in/daviasculski](https://linkedin.com)
 - **Instagram:** [@davi.iasculski](https://instagram.com)
-- **E-mail:** [Seu Email Aqui](mailto:davikolski@gmail.com)
+- **E-mail:** [davikolski@gmail.com](mailto:davikolski@gmail.com)
